@@ -1,0 +1,7 @@
+{
+    "artifact": {
+        "type": "ami",
+        "ami_id": "ami-12345678",
+        "ami_build_time": "2016-02-29T14:58:42+00:00"
+    }
+}
